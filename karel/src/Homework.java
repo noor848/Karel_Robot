@@ -9,11 +9,11 @@ public class Homework extends SuperKarel {
     public void run() {
         beepers = 0;
         steps = 0;
-        setBeepersInBag(1000);
+        int beepersNumber = 1000;
+        setBeepersInBag(beepersNumber);
         countRowAndColumn(); // count the row and column
         System.out.println("Row = " + row);
         System.out.println("Column = " + column);
-
         if (column != 0 && row != 0 && (column * row) > 1) {
             if (row < 4  || column < 4 ){
                 if(row <= 7 && column <= 7){
