@@ -1,0 +1,15 @@
+
+{	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Óµ€€ùÿÿÿÿ8³‡¹ÌÄ1
+v	java:S135¢"YReduce the total number of break and continue statements in this loop to use at most one.(Ë´Ë8´‡¹ÌÄ1
+{	java:S135¶"YReduce the total number of break and continue statements in this loop to use at most one.(¨ò…¶ÿÿÿÿÿ8µ‡¹ÌÄ1
+{	java:S135Ê"YReduce the total number of break and continue statements in this loop to use at most one.(¨ò…¶ÿÿÿÿÿ8¶‡¹ÌÄ1
+s	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¢ıÆùÿÿÿÿ8¸‡¹ÌÄ1
+s	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¢ıÆùÿÿÿÿ8Ã‡¹ÌÄ1
+o
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(“–ış8Ù˜¹ÌÄ1
+W
+java:S1161	":Add the "@Override" annotation above this method signature(“–ış8Ş˜¹ÌÄ1
+u
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Š®ö¼ÿÿÿÿÿ8“™¹ÌÄ1
+u
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(İí·üÿÿÿÿ8·™¹ÌÄ1
