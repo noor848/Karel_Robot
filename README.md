@@ -19,3 +19,6 @@ counter to your code and print it while Karel is moving.
 - You should minimize the number of lines in your code to the lowest possible number
 of lines by writing reusable functions.
 - Use the lowest possible number of beepers to achieve your task
+
+
+
